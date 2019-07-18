@@ -1,0 +1,16 @@
+PODS:
+  - HeHandler (0.1.0)
+
+DEPENDENCIES:
+  - HeHandler (from `../`)
+
+EXTERNAL SOURCES:
+  HeHandler:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HeHandler: be384bec8b6b921fd1b836054e94cc3e6ef213bc
+
+PODFILE CHECKSUM: e87b0c1aedba01f02c2505f347e128127a2c4800
+
+COCOAPODS: 1.7.4
