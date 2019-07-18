@@ -1,0 +1,6 @@
+use_frameworks!
+target 'HeHandler_Tests' do
+  pod 'HeHandler', :path => '../'
+  
+  
+end
