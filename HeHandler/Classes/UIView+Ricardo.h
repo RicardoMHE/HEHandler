@@ -49,6 +49,4 @@
 - (BOOL)isDisplayedInScreen;
 
 
-- (CGRect)he_relativeFrameForScreen;
-
 @end
